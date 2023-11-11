@@ -7,7 +7,11 @@ Create a new <b>Google Sheet</b>
 
 In the menu bar, click on <b>"Extensions"</b> and then select <b>"Apps Script."</b>
 
+![Apps Script](app_script.png)
+
 In the Apps Script editor, delete any code that might be there and replace it with the following code:
+![Default Code](default_code.png)
+
 ## google-sheet-snippets
 ```js
 function importJSON() {
