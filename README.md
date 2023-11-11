@@ -8,4 +8,4 @@ Below is a list of the available code samples along with their directories and l
 
 |Sr.No. | Directory/Resource Name | Link |
 |-------|-------------------|------|
-|1 | import json data        | [Language](https://github.com/azhar-chaudhari/google-sheet-snippets/tree/main/import%20json/) |
+|1 | import json data        | [import json data](https://github.com/azhar-chaudhari/google-sheet-snippets/tree/main/import%20json/) |
